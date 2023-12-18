@@ -1,0 +1,9 @@
+langchain
+unstructured[all-docs]
+pydantic
+lxml
+langchainhub
+openai
+chromadb
+tiktoken
+python-dotenv
